@@ -11,4 +11,3 @@ My name is Lothar, born in 1994.
 ## Studies
 
 - Starting in Python
-
